@@ -21,3 +21,17 @@
 
 本仓库只放编译产物与版本号，不含漫画内容。漫画源规则在
 [venera-cn-64bit](https://github.com/token1008/venera-cn-64bit)。
+
+---
+
+## 来源声明（重要）
+
+**本项目是对开源项目 [venera-app/venera](https://github.com/venera-app/venera) 的修改版，并非原创作品。**
+
+- 原始项目：https://github.com/venera-app/venera （作者 venera-app）
+- 本仓库/本 APK 只做了以下修改：
+  1. 默认漫画源列表地址改指向本项目的自建源仓库；
+  2. 界面翻译补全为简体中文（`translation.json`）；
+  3. 「检查更新」指向本项目的发布仓库。
+- 原始项目的著作权归原作者所有，请遵循原项目的开源许可。
+- 本仓库**不含任何漫画内容**，只包含解析规则脚本 / 编译产物。
